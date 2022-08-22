@@ -1,3 +1,9 @@
+# React Todo App
+
+## This is a scrrenshot from the working project 
+
+![alt text]([http://url/to/img.png](https://github.com/MohamedEZ-ZAROUALY/TodoApp/blob/main/thumbnail/Capture.PNG))
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
